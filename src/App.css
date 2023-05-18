@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  letter-spacing: 0.02em;
+}
+.App {
+  width: 90%;
+  margin: 5% auto;
+  text-align: center;
+}
